@@ -26,7 +26,7 @@
     <ApplicationTitle>AdventureWorks</ApplicationTitle>
 
     <!-- App Identifier -->
-    <ApplicationId>com.companyname.eshop</ApplicationId>
+    <ApplicationId>com.softdevcom.eshop</ApplicationId>
     <ApplicationId Condition="$(TargetFramework.Contains('-windows'))">9a85b8a9-4da5-4a12-8e7f-43c05ab266d6</ApplicationId>
 
     <!-- Versions -->
